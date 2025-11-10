@@ -193,7 +193,7 @@ public class GameManager : MonoBehaviour
 ```
 ### Output:
 <img width="715" height="460" alt="image" src="https://github.com/user-attachments/assets/22963643-2e37-48f0-9ad2-4f3be53e2af1" />
-<img width="711" height="461" alt="image" src="https://github.com/user-attachments/assets/b3e6a322-8046-42c6-b3c4-f6cbe5a05aea" />
+<img width="709" height="460" alt="image" src="https://github.com/user-attachments/assets/0991867a-a5e8-4bd0-af67-1700c6a8084f" />
 <img width="704" height="460" alt="image" src="https://github.com/user-attachments/assets/b1f30590-c1e5-4541-8c0c-202ab4625501" />
 
 
