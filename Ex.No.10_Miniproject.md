@@ -1,4 +1,4 @@
-# Ex.No: 10  Implementation of 2D/3D game -------------------
+# Ex.No: 10  Implementation of 2D Dodge the Falling Objects Game
 ### DATE: 10/11/2025                                                                           
 ### REGISTER NUMBER : 212223230105
 ### AIM: 
