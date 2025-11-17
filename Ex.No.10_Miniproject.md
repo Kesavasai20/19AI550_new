@@ -1,5 +1,5 @@
 # Ex.No: 10  Implementation of 2D Dodge the Falling Objects Game
-### DATE: 10/11/2025                                                                           
+### DATE: 23/10/2025                                                                         
 ### REGISTER NUMBER : 212223230105
 ### AIM: 
 To develop a 2D “Dodge the Falling Objects” game in Unity where the player avoids falling obstacles while the game dynamically adjusts difficulty using basic AI logic. 
