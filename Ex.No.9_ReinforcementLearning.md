@@ -1,5 +1,5 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
-### DATE:14/10/2025                                                                            
+### DATE:7/10/2025                                                                          
 ### REGISTER NUMBER : 212223230105
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
